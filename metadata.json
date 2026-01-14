@@ -1,0 +1,7 @@
+{
+  "name": "FinanceStream - Enterprise Claim Management",
+  "description": "A high-end finance claim application featuring automated currency conversions, GL code mapping, and a multi-level approval workflow with Oracle ERP export capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
